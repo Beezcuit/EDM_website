@@ -2,7 +2,7 @@
 
 # Pulse of the Universe
 
-Bu proje, elektronik müzik tutkunları için hazırlanmış modern ve etkileşimli bir web sitesi demosudur. Techno'dan Trance'a, festivallerden blog içeriklerine kadar zengin içerik sunan site, tamamen HTML, CSS ve Bootstrap ile geliştirilmiştir.
+Bu proje, elektronik müzik tutkunları için hazırlanmış modern ve etkileşimli bir web sitesi demosudur. Techno'dan Trance'a, festivallerden blog içeriklerine kadar zengin içerik sunan site, tamamen HTML, CSS, Javascript ve Bootstrap ile geliştirilmiştir.
 
 ---
 
