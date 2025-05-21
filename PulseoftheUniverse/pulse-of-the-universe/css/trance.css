@@ -1,0 +1,36 @@
+ #vanta-trance {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100vw;
+     height: 100vh;
+     z-index: -1;
+ }
+
+
+
+ .trance-theme .neon-title {
+     color: #00ffea;
+     text-shadow: 0 0 8px #009d99, 0 0 20px #00ffe0;
+     font-size: 2.5rem;
+     margin-bottom: 30px;
+ }
+
+ .spotify-btn {
+     background: transparent;
+     border: 1px solid #fff;
+     color: white;
+     padding: 5px 12px;
+     border-radius: 4px;
+     margin-bottom: 10px;
+     font-size: 14px;
+     text-decoration: none;
+     display: inline-block;
+     transition: background 0.3s ease;
+ }
+
+ .spotify-btn:hover {
+     background: #00ffe0;
+     color: #000;
+     text-decoration: none;
+ }

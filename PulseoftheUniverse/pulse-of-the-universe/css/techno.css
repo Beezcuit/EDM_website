@@ -1,0 +1,37 @@
+
+#vanta-techno {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+
+
+.spotify-btn {
+    background: transparent;
+    border: 1px solid #fff;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background 0.3s;
+}
+
+.spotify-btn:hover {
+    background: #FF1E1E;
+    color: white;
+    text-decoration: none;
+}
+
+.techno-theme body,
+.techno-theme h1,
+.techno-theme a {
+    color: #FF7F7F;
+    text-shadow: 0 0 10px #FF3B3B, 0 0 20px #FF1E1E;
+}
