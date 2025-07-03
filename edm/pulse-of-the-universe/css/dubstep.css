@@ -1,0 +1,25 @@
+html, body {
+    background: transparent !important;
+  }
+#vanta-fog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    
+  }
+ 
+  .spotify-btn {
+    background: transparent;
+    border: 1px solid #fff;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background 0.3s ease;
+}
